@@ -6,7 +6,7 @@ I am also a **Google Data Analytics Certified** professional, which has strength
 
 ---
 
-## 🔧 Tools I Work With
+## Tools I Work With
 
 Here are a few of my go-to tools for analysis and visualization:
 
@@ -19,7 +19,7 @@ Here are a few of my go-to tools for analysis and visualization:
 
 ---
 
-## 📚 What You’ll Find Here
+## What You’ll Find Here
 
 - Real analysis projects using public and private datasets, including coursework and practical exercises from the **Google Data Analytics Certification**  
 - Dashboards that highlight KPIs and uncover trends  
@@ -28,12 +28,12 @@ Here are a few of my go-to tools for analysis and visualization:
 
 ---
 
-## 🤝 Why This Portfolio Exists
+## Why This Portfolio Exists
 
 Data is powerful—but only if we understand what it's trying to tell us. This page is my way of showing how I help people and organizations **make smarter decisions through data**. Whether it’s identifying trends, building visual stories, or simplifying messy data, I love the challenge and creativity behind it all.
 
 ---
 
-## 📫 Let’s Connect!
+## Let’s Connect!
 
 If you’re curious about my work, want to collaborate, or just want to chat - connect with me on linkedin! 
