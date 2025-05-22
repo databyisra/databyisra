@@ -2,6 +2,8 @@
 
 Hi there! I'm excited to share my journey and work in the world of **data analytics** and **business intelligence**. This portfolio is a collection of real-world projects, insights, and dashboards I've built using tools that help transform raw data into meaningful stories — all focused on making data practical, visual, and impactful. Each project reflects my approach to translating data into clear, strategic action across different industries and problem spaces.
 
+I am also a **Google Data Analytics Certified** professional, which has strengthened my skills in data cleaning, visualization, and analysis using industry best practices.
+
 ---
 
 ## 🔧 Tools I Work With
@@ -19,7 +21,7 @@ Here are a few of my go-to tools for analysis and visualization:
 
 ## 📚 What You’ll Find Here
 
-- Real analysis projects using public and private datasets  
+- Real analysis projects using public and private datasets, including coursework and practical exercises from the **Google Data Analytics Certification**  
 - Dashboards that highlight KPIs and uncover trends  
 - Use cases in workforce planning, startup funding, and public health  
 - My approach to solving business problems with data
