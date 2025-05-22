@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Isra — Here’s How I Solve Problems with Data
-![image](https://github.com/user-attachments/assets/0ec300a0-c233-46e3-83ed-54de9e50e2cf)
 
 Hi there! I'm excited to share my journey and work in the world of **data analytics** and **business intelligence**. This portfolio is a collection of real-world projects, insights, and dashboards I've built using tools that help transform raw data into meaningful stories — all focused on making data practical, visual, and impactful. Each project reflects my approach to translating data into clear, strategic action across different industries and problem spaces.
 
