@@ -12,10 +12,10 @@ Here are a few of my go-to tools for analysis and visualization:
 
 | Tool                | What I Use It For                                   |
 |---------------------|-----------------------------------------------------|
-| 🧮 **SQL**           | Querying, cleaning, and exploring relational data   |
-| 📊 **Tableau**       | Creating dashboards that tell compelling stories    |
-| 📈 **Google Sheets** | Quick analyses, pivot tables, automation via scripts |
-| 🧠 **Business Analysis** | Bridging the gap between stakeholders and tech teams |
+|  **SQL**           | Querying, cleaning, and exploring relational data   |
+|  **Tableau**       | Creating dashboards that tell compelling stories    |
+|  **Google Sheets** | Quick analyses, pivot tables, automation via scripts |
+|  **Business Analysis** | Bridging the gap between stakeholders and tech teams |
 
 ---
 
